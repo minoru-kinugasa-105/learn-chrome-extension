@@ -1,5 +1,5 @@
-# learn-chrome-extension
-学習のため、Chromeの拡張機能をVueで作ってみました！
+# chrome-extension
+chrome extension開発てすとです
 
 ## 概要
 - 新しいタブがカスタムされたタブに置き換わる
